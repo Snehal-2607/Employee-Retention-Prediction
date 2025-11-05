@@ -42,9 +42,9 @@ Predict whether data scientists are likely to change jobs.
 ## Project Structure
 
 Employee-Retention-Prediction
-- `fraud_detection_app_streamlit.py`  – Streamlit frontend + prediction logic  
-- `fraud_detection.pkl`              – Trained Random Forest ML model  
-- `requirements.txt`                 – Project dependencies  
-- `README.md`                         – Project documentation  
+- `employee-retention-prediction.main.app.py`  – Streamlit frontend + prediction logic  
+- `employee_retention_model.pkl`              – Trained Random Forest ML model  
+- `requirements.txt`                          – Project dependencies  
+- `README.md`                                 – Project documentation  
 - `Power BI Dashboard`                - Power BI Dashboard
 
