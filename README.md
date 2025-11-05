@@ -25,3 +25,26 @@ Predict whether data scientists are likely to change jobs.
 - **NumPy & Pandas** – for data manipulation and feature engineering
 - **Matplotlib & Seaborn** – for visualization during model evaluation
 - **Imbalanced-learn (SMOTE)** – for handling class imbalance during training
+
+## Features
+
+- Predicts whether an employee is likely to stay or leave based on HR data
+- Uses Random Forest and XGBoost classifiers for accurate retention insights
+- Handles imbalanced datasets using SMOTE for fair model training
+- Includes feature importance visualization to identify top retention drivers
+- Clean, interactive interface built with Streamlit for real-time prediction
+- Accepts employee details as input and instantly returns prediction results
+- Displays probability of attrition along with the classification
+- Provides key model evaluation metrics: Accuracy, Recall, Precision, F1-Score
+- Offers visual analysis: Confusion Matrix, ROC Curve, and Feature Importance chart
+- Fully deployable on Streamlit Cloud or can run locally with minimal setup
+
+## Project Structure
+
+Employee-Retention-Prediction
+- `fraud_detection_app_streamlit.py`  – Streamlit frontend + prediction logic  
+- `fraud_detection.pkl`              – Trained Random Forest ML model  
+- `requirements.txt`                 – Project dependencies  
+- `README.md`                         – Project documentation  
+- `Power BI Dashboard`                - Power BI Dashboard
+
