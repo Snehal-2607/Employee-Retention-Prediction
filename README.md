@@ -48,3 +48,11 @@ Employee-Retention-Prediction
 - `README.md`                                 – Project documentation  
 - `Power BI Dashboard`                - Power BI Dashboard
 
+  ## References & Acknowledgments
+
+- Inspired by HR analytics and employee attrition prediction case studies
+- [Scikit-learn documentation](https://scikit-learn.org/stable/documentation.html)  
+- [Streamlit documentation](https://docs.streamlit.io/)  
+- Tutorials on **handling imbalanced datasets with SMOTE**
+- Reference materials on Random Forest and XGBoost model optimization
+
